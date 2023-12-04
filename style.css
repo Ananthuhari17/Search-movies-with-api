@@ -1,0 +1,38 @@
+
+body {
+  background-color: #f4f4f4;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.results {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+   /* Initially hide results */
+   display: none;
+}
+
+.results h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.movie {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.movie h3 {
+  margin: 5px 0;
+}
+
+.movie p {
+  margin: 5px 0;
+  color: #888;
+}
